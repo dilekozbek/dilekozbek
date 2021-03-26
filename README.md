@@ -32,14 +32,10 @@
 
 
 ## GitHub Stats
-  <img align="center" alt="Dilek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dilekozbek&show_icons=true&hide_border=true" />
+<img align="center" alt="Dilek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dilekozbek&show_icons=true&hide_border=true" />
 
 <hr>
-<details open>
-  <summary>:zap: Spotify Playing 🎧</summary>
-
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/t8g8qbd251t8pdyotbe0p3gry)
-</details>
+<p align = "left"> <img src = " https://komarev.com/ghpvc/?username=dsdfdsf&label=Profile%20views&color=0e75b6&style=flat "alt =" dsdfdsf "/> </p>
 
 <br />
 
