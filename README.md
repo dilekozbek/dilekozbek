@@ -35,7 +35,7 @@
 <img align="center" alt="Dilek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dilekozbek&show_icons=true&hide_border=true" />
 
 <hr>
-<p align = "left"> <img src = " https://komarev.com/ghpvc/?username=dsdfdsf&label=Profile%20views&color=0e75b6&style=flat "alt =" dsdfdsf "/> </p>
+<p align = "left"> <img src = " https://komarev.com/ghpvc/?username=dilekozbek&label=Profile%20views&color=0e75b6&style=flat "alt =" dilekozbek "/> </p>
 
 <br />
 
