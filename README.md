@@ -1,5 +1,5 @@
 ### Hi there, I'm Dilek 👋
-## I'm a Junior Software Developer, and Teacher.
+## I'm a Software Developer, and Teacher.
 
 - 🌱 I adopt an approach that focuses on continuous learning and self-improvement. 😇
 - 👩‍💻 I am a front-end developer, experienced in the design and development of user interfaces.
@@ -35,7 +35,7 @@
 
 
 ## GitHub Stats
-<img align="center" alt="Dilek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dilekozbek&show_icons=true&hide_border=true" />
+<img align="center" alt="Dilek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dilekozbek)](https://github.com/anuraghazra/github-readme-stats" />
 
 <hr>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=dilekozbek&label=Profile%20views&color=0e75b6&style=flat" alt = "dilekozbek "/> </p>
