@@ -1,13 +1,15 @@
 ### Hi there, I'm Dilek 👋
 ## I'm a Junior Software Developer, and Teacher.
 
-- 🌱 I’m currently learning everything. 😇
-- 👩‍💻 My goal is to be a full stack developer.
+- 🌱 I adopt an approach that focuses on continuous learning and self-improvement. 😇
+- 👩‍💻 I am a front-end developer, experienced in the design and development of user interfaces.
+- 🕹️ I continue to progress in the field of game development by gaining proficiency in Unity and C#.
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ My Hobbies: I love play guitar and play video games.
 
 ## Languages and Tools:
 
+<img align="left" alt="C#" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg)" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
